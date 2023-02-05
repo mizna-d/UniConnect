@@ -1,5 +1,3 @@
-##### <b>README :</b> TEAM 23 </br></br>
-
 ## **README-DocsV is the most updated version of the README as of Nov 7th and provides a walk-through of the website*
 
 # <b>Welcome to <em>UniConnect</em>!</b>
